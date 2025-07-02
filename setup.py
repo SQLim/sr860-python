@@ -10,7 +10,7 @@ setup(
     version='0.1.0',
     author='Shao Qi Lim',
     author_email='qiqilsq@gmail.com',
-    description='Python package for Windfreak Technologies devices.',
+    description='Python driver for Stanford Research Systems SR860 DSP lock-in amplifier instrument.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/SQLim/sr860-python',

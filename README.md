@@ -6,7 +6,7 @@
 
 ## Abstract
 
-**sr860-python** is a pure Python package to facilitate the use of [Stanford Research Systems](https://thinksrs.com) [SR860 DSP lock-in amplifier](https://thinksrs.com/products/sr860.html)instrument.
+**sr860-python** is a pure Python package to facilitate the use of [Stanford Research Systems](https://thinksrs.com) [SR860 DSP lock-in amplifier](https://thinksrs.com/products/sr860.html) instrument.
 
 **sr860-python** requires Python 3.
 
@@ -19,7 +19,7 @@
 
 ### Using `pip`:
 ```text
-pip install git+https://github.com/SQLim/sr860-python.git
+python -m pip install git+https://github.com/SQLim/sr860-python.git
 ```
 
 ### Using `setup.py`:
