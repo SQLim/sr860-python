@@ -8,7 +8,7 @@ build-backend = 'setuptools.build_meta'
 dynamic = ['version']
 name = 'sr860-python'
 dependencies = ['pyvisa']
-requires-python = ''>= 3'
+requires-python = '>= 3'
 authors = [{name = 'Shao Qi Lim', email = 'qiqilsq@gmail.com'}]
 description = 'Python driver for Stanford Research Systems SR860 DSP lock-in amplifier instrument.'
 readme = 'README.md'
