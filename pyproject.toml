@@ -12,8 +12,8 @@ requires-python = '>= 3'
 authors = [{name = 'Shao Qi Lim', email = 'qiqilsq@gmail.com'}]
 description = 'Python driver for Stanford Research Systems SR860 DSP lock-in amplifier instrument.'
 readme = 'README.md'
-license = 'MIT'
-license-files = ['LICENSE']
+license = {file = 'LICENSE'}
+#license-files = ['LICENSE']
 classifiers=['Development Status :: 4 - Beta',
 			'Intended Audience :: SR860 users',
 			'Programming Language :: Python :: 3',
